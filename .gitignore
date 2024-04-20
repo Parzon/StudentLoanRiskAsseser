@@ -1,2 +1,12 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+
+# OS specific
 .DS_Store
 
+# Build artifacts
+target/
+build/
+out/
